@@ -6,4 +6,4 @@ Remove Image Background
 
 Name | Website 
 ------------ | ------- 
-[ remove.bg| https://www.remove.bg
+ remove.bg| https://www.remove.bg
