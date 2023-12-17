@@ -2,7 +2,7 @@
 The Best AI Photo Manipulation Sites
 
 
-<b>Remove Image Background</b>
+<b>1-Remove Image Background</b>
 
 Name | Website 
 ------------ | ------- 
@@ -13,7 +13,7 @@ Name | Website
  clipdrop| https://clipdrop.co/remove-background
 snapedit| https://snapedit.app/tr
 
-<b>Colorize Photos</b>
+<b>2-Colorize Photos</b>
 
 Name | Website 
 ------------ | ------- 
@@ -23,7 +23,7 @@ Name | Website
  replicate| https://replicate.com/arielreplicate/deoldify_image
 
 
- <b>Image Largers</b>
+ <b>3-Image Largers</b>
 
 Name | Website 
 ------------ | ------- 
@@ -35,7 +35,7 @@ Name | Website
  upscales| https://upscales.ai/tr
 
 
- <b>Image Restoration</b>
+ <b>4-Image Restoration</b>
 
 Name | Website 
 ------------ | ------- 
@@ -56,7 +56,7 @@ Name | Website
  replicate| https://replicate.com/lqhl/realesrgan
 
  
-<b>Online Edit</b>
+<b>5-Online Edit</b>
 
 Name | Website 
 ------------ | ------- 
@@ -64,13 +64,13 @@ Name | Website
  edit.photo| https://edit.photo/
 
 
-<b>Reduce Size of your Images for Freet</b>
+<b>6-Reduce Size of your Images for Freet</b>
 
 Name | Website 
 ------------ | ------- 
  shrink| https://www.shrink.media/
 
- <b>Image Resizer</b>
+ <b>7-Image Resizer</b>
 
 Name | Website 
 ------------ | ------- 
