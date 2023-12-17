@@ -77,5 +77,5 @@ Name | Website
  imageresizer| https://imageresizer.com/image-enlarger/editor
 
 
-Source
+<b>Source</b>
 https://www.mesutdemirci.com/yapay-zeka-ile-fotograflarinizi-duzenleyeceginiz-platformlar/
